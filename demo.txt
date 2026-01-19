@@ -1,1 +1,2 @@
 Github is Version Controller
+easy to fix git 
