@@ -1,2 +1,7 @@
 Github is Version Controller
+<<<<<<< HEAD
 easy to fix git 
+=======
+it is flxible,scalable
+it easy to track
+>>>>>>> 3b869c0cdddba30e602239ca60aa6400a4745788
