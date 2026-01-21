@@ -3,3 +3,4 @@ easy to fix git
 it is flxible,scalable
 it easy to track
 github local data
+git config --global user.name
